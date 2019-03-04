@@ -7,19 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f0e0bfd-4418-4795-ac50-b44704e2d7eb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kotlin/src/main/resources/dbconfig.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin/src/main/resources/dbconfig.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kotlin/target/Kotlin_Server/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin/target/Kotlin_Server/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kotlin/target/Kotlin_Server/WEB-INF/classes/com/module/user/controller/BaseController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin/target/Kotlin_Server/WEB-INF/classes/com/module/user/controller/BaseController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kotlin/target/Kotlin_Server/WEB-INF/classes/dbconfig.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin/target/Kotlin_Server/WEB-INF/classes/dbconfig.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kotlin/target/Kotlin_Server/WEB-INF/lib/druid-1.0.18.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kotlin/target/classes/com/module/user/controller/BaseController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin/target/classes/com/module/user/controller/BaseController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kotlin/target/classes/dbconfig.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin/target/classes/dbconfig.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/Kotlin/target/" />
@@ -54,12 +42,17 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Kotlin/src/main/resources/redis.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Kotlin/src/main/resources/dbconfig.properties">
+        <entry file="file://$PROJECT_DIR$/Kotlin/src/main/java/com/module/user/controller/CartGoodsController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="41" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="41" />
+            <state relative-caret-position="324">
+              <caret line="68" column="26" selection-start-line="68" selection-start-column="26" selection-end-line="68" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -90,6 +83,7 @@
         <option value="$PROJECT_DIR$/Kotlin/src/main/java/com/module/user/utils/push/PushSender.java" />
         <option value="$PROJECT_DIR$/Kotlin/src/main/resources/dbconfig.properties" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Kotlin/src/main/java/com/module/user/controller/CartGoodsController.java" />
       </list>
     </option>
   </component>
@@ -125,9 +119,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="101" />
-    <option name="y" value="25" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="325" />
+    <option name="y" value="102" />
     <option name="width" value="1605" />
     <option name="height" value="880" />
   </component>
@@ -172,7 +166,60 @@
               <item name="Kotlin" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kotlin-Server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KotlinMallServer" type="462c0819:PsiDirectoryNode" />
+              <item name="Kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kotlin-Server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KotlinMallServer" type="462c0819:PsiDirectoryNode" />
+              <item name="Kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kotlin-Server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KotlinMallServer" type="462c0819:PsiDirectoryNode" />
+              <item name="Kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kotlin-Server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KotlinMallServer" type="462c0819:PsiDirectoryNode" />
+              <item name="Kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kotlin-Server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KotlinMallServer" type="462c0819:PsiDirectoryNode" />
+              <item name="Kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kotlin-Server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KotlinMallServer" type="462c0819:PsiDirectoryNode" />
+              <item name="Kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -188,8 +235,12 @@
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543484166262" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Git/KotlinMall" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunDashboard">
@@ -207,7 +258,6 @@
   <component name="RunManager">
     <configuration name="Tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.14" ALTERNATIVE_JRE_ENABLED="false">
       <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
-      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="Kotlin:war exploded">
@@ -315,16 +365,29 @@
       <workItem from="1551627703942" duration="282000" />
       <workItem from="1551629681299" duration="787000" />
       <workItem from="1551630542903" duration="14000" />
+      <workItem from="1551630561467" duration="228000" />
+      <workItem from="1551630853839" duration="652000" />
+      <workItem from="1551631612418" duration="1000" />
+      <workItem from="1551661863578" duration="1806000" />
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1551630574647</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1551630574647</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33103000" />
+    <option name="totallyTimeSpent" value="35790000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="82" y="20" width="1284" height="704" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.276509" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24329759" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -334,7 +397,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4206799" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33994335" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -342,7 +405,7 @@
       <window_info anchor="bottom" id="Application Servers" order="7" weight="0.3295082" />
       <window_info anchor="bottom" id="Spring" order="8" weight="0.3286119" />
       <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32867134" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.4055944" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" weight="0.3295082" />
@@ -363,6 +426,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/.m2/settings.xml" />
@@ -528,13 +595,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Kotlin/src/main/java/com/module/user/controller/CartGoodsController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="889">
-          <caret line="122" selection-start-line="122" selection-end-line="122" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Kotlin/src/main/java/com/module/user/controller/BaseController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-630">
@@ -557,18 +617,8 @@
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.m2/repository/com/alibaba/druid/1.0.18/druid-1.0.18.jar!/com/alibaba/druid/pool/DruidDataSource.class" />
-    <entry file="file://$PROJECT_DIR$/Kotlin/src/main/resources/redis.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Kotlin/src/main/resources/log4j.properties">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Kotlin/src/main/resources/spring/spring-config-mybatis.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-384">
-          <caret line="20" column="47" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -591,13 +641,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Kotlin/src/main/java/com/module/user/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Kotlin/src/main/resources/sql_create">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -614,8 +657,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Kotlin/src/main/resources/dbconfig.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="41" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="41" />
+        <state relative-caret-position="144">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kotlin/src/main/resources/spring/spring-config-service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="52" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kotlin/src/main/resources/spring/spring-config-mybatis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-973">
+          <caret line="20" column="47" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kotlin/src/main/resources/spring/spring-config-redis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-216" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kotlin/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-270" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kotlin/src/main/java/com/module/user/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1656">
+          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kotlin/src/main/resources/redis.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kotlin/src/main/resources/spring/spring-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kotlin/src/main/java/com/module/user/controller/CartGoodsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="68" column="26" selection-start-line="68" selection-start-column="26" selection-end-line="68" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -633,8 +724,81 @@
           </splitter-proportions>
         </settings>
       </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Kotlin:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring|Kotlin</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
